@@ -4,7 +4,7 @@
 <ul><li>first version of this exercise will be a spoken exercise we do in a circle</li><li>the second will be a written</li></ul>
 <h1>second exercise: exploration of a decision tree</h1>
 <p>this exercise will be about decisions. what can we present to our reader as a decision which will be compelling?</p>
-<ul><li>create a list of 10 ordinary/extrodinary scenarios where a person must make a decision which has as many as 3 choices</li><ul>create 10 of these scenarios</ul>
+<ul><li>create a list of 10 ordinary/extraordinary scenarios where a person must make a decision which has as many as 3 choices</li><ul>create 10 of these scenarios</ul>
 </ul>
 <h1>third exercise: interesting subjects</h1>
 <p>authors will choose one genre of writing, and also 5 subjects within that writing</p>
