@@ -3,7 +3,7 @@
 <p>https://twine-template-week-01.glitch.me</p>
 <p>list</p>
 <p>https://twine-list.glitch.me</p>
-<p>week-04</p>
-<p></p>
-<p>week-05</p>
-<p>https://glitch.com/~banana-variables</p>
+<p>variables</p>
+<p>https://banana-variables.glitch.me</p>
+<p>conditionals</p>
+<p>https://soda-casino.glitch.me</p>
